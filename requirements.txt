@@ -9,3 +9,4 @@ PyMuPDF
 langchain
 langsmith
 langchain-community
+beautifulsoup4
