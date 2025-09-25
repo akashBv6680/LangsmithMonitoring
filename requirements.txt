@@ -10,4 +10,4 @@ langchain
 langsmith
 langchain-community
 beautifulsoup4
-duckduckgo-search  
+duckduckgo-search 
